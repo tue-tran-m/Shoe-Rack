@@ -1,0 +1,42 @@
+.recom-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem;
+    margin-top: 2rem;
+}
+
+.recom-btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 18%;
+    gap: 20px;
+}
+
+.btns {
+    padding: 10px 20px;
+    background: transparent;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+button:hover {
+    color: gray;
+}
+
+.search-container {
+    margin-right: 1rem;
+    margin-top: 5px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.537);
+    padding-bottom: 5px;
+}
+
+input {
+    all: unset;
+    text-align: center;
+}
+

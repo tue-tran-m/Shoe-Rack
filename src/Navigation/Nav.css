@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content:  flex-end;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.nav-icons {
+    width: 1.4rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+    margin-bottom: -7px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.description {
+    color: black;
+    font-family: "Quicksand", sans-serif;
+    font-size: 0.8rem;
+}
